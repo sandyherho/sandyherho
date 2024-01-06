@@ -1,16 +1,21 @@
-### Hi there 👋
+# 🌊 Hi there! I'm Sandy Herho - 1st-year PhD Student in Ocean Biogeochemistry 🌏
 
-<!--
-**sandyherho/sandyherho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 PhD Student at the University of California, Riverside
+- 🌐 Department of Earth and Planetary Sciences
+- 🔬 Specializing in data-driven and numerical modeling for Ocean Biogeochemistry
+- 📊 Passionate about understanding and preserving our oceans through innovative research
 
-Here are some ideas to get you started:
+## My Research
+- 🌊 Currently working on efficient numerical approaches to help understanding carbon-climate feedbacks  
+- 📈 Utilizing advanced data analytics and modeling techniques to explore oceanic systems
+- 🛰️ Integrating data-driven with traditional numerical approaches for comprehensive analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies & Tools
+- 💻 Proficient in Python, MATLAB, R, and Julia
+- 📊 Data analysis with tools like 
+- 🛠️ Experience with numerical modeling software: cGENIE
+
+## Connect with Me
+- 📫 Email: sandy.herho@email.ucr.edu
+- 🔗 LinkedIn: https://bit.ly/sandy-herho

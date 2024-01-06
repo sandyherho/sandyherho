@@ -1,9 +1,9 @@
-# 🌊 Hi there! I'm Sandy Herho - 1st-year PhD Student in Ocean Biogeochemistry 🌏
+# Hi there! I'm Sandy Herho - 1st-year PhD Student in Ocean Biogeochemistry 🌏
 
 ## About Me
 - 🎓 PhD Student at the University of California, Riverside
-- 🌐 Department of Earth and Planetary Sciences
-- 🔬 Specializing in data-driven and numerical modeling for Ocean Biogeochemistry
+-  Department of Earth and Planetary Sciences
+- :ocean: Specializing in data-driven and numerical modeling for Ocean Biogeochemistry
 - 📊 Passionate about understanding and preserving our oceans through innovative research
 
 ## My Research

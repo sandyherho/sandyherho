@@ -12,7 +12,7 @@
 - 🛰️ Integrating data-driven with traditional numerical approaches for comprehensive analysis
 
 ## Technologies & Tools
-- 💻 Proficient in Python, MATLAB, R, and Julia
+- 💻 Proficient in Python, MATLAB, R, Fortran, and Julia
 - 📊 Data analysis with tools like 
 - 🛠️ Experience with numerical modeling software: cGENIE
 

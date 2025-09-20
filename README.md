@@ -1,12 +1,12 @@
 ### ~/whoami
 ```bash
-$ cat /etc/passwd | grep sandy
-sandy:x:1000:1000:climate hacker,earth system modeler,data wrangler:/home/geoscience:/bin/bash
+$ cat /etc/passwd | grep sandyherho
+sandyherho:x:1000:1000:climate hacker,earth system modeler,data wrangler:/home/geoscience:/bin/bash
 ```
 
 ### ~/interests
 ```bash
-$ ls -la /home/sandy/research/
+$ ls -la /home/sandyherho/research/
 drwxr-xr-x  paleoclimate/
 drwxr-xr-x  marine_biogeochem/
 drwxr-xr-x  indonesian_climate/
@@ -25,7 +25,7 @@ status = 'active'
 
 ### ~/current_processes
 ```bash
-$ ps aux | grep sandy
+$ ps aux | grep sandyherho
 [1] developing atmospheric/oceanic analysis tools
 [2] reverse-engineering climate signals  
 [3] simulating geophysical fluids

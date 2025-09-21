@@ -1,7 +1,7 @@
 ### ~/whoami
 ```bash
 $ cat /etc/passwd | grep sandyherho
-sandyherho:x:1000:1000:climate hacker,earth system modeler,data wrangler:/home/geoscience:/bin/bash
+sandyherho:x:1000:1000:climate hacker,earth system modeler,data wrangler:/home/earth_comp_sci:/bin/bash
 ```
 
 ### ~/interests

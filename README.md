@@ -35,7 +35,7 @@ $ ps aux | grep sandyherho
 ### ~/contact
 ```bash
 $ echo $MAIL
-sandy.herho@email.ucr.edu
+herhobot@gmail.com
 
 $ links
 https://sandyherho.github.io/

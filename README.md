@@ -27,7 +27,7 @@ status = 'active'
 ```bash
 $ ps aux | grep sandyherho
 [1] developing atmospheric/oceanic analysis tools
-[2] reverse-engineering climate signals  
+[2] reverse-engineering paleoclimate signals  
 [3] simulating geophysical fluids
 [4] hacking earth system models
 ```
@@ -35,7 +35,7 @@ $ ps aux | grep sandyherho
 ### ~/contact
 ```bash
 $ echo $MAIL
-herhobot@gmail.com
+gagakrimang@tuta.io
 
 $ links
 https://sandyherho.github.io/

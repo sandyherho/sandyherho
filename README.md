@@ -9,9 +9,9 @@ sandyherho:x:1000:1000:climate hacker,earth system modeler,data wrangler:/home/g
 $ ls -la /home/sandyherho/research/
 drwxr-xr-x  paleoclimate/
 drwxr-xr-x  marine_biogeochem/
-drwxr-xr-x  indonesian_climate/
+drwxr-xr-x  maritime-continent_climate/
 drwxr-xr-x  time_series_analysis/
-drwxr-xr-x  fluid_dynamics/
+drwxr-xr-x  geophysical-fluid_dynamics/
 -rw-r--r--  scientific_computing.py
 ```
 
